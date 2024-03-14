@@ -38,7 +38,7 @@ public class Date {
    *
    * @return The month of the year (1-12).
    */
-  public int getMonth() {
+  public int geMonth() {
     return month;
   }
 
